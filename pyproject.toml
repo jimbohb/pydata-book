@@ -19,6 +19,7 @@ dependencies = [
     "requests",
     "sqlalchemy",
     "pytz",
+    "torch>=2.8.0",
 ]
 
 [project.optional-dependencies]

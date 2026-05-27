@@ -13,6 +13,7 @@ ipython
 requests
 sqlalchemy
 pytz
+torch>=2.8.0
 
 [dev]
 jupyter
