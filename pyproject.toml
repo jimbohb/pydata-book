@@ -2,7 +2,7 @@
 name = "pydata-book"
 version = "3.0.0"
 description = "Code and materials for Python for Data Analysis, 3rd Edition"
-requires-python = ">=3.9"
+requires-python = "==3.9"
 dependencies = [
     "numpy",
     "pandas==2.0.3",
